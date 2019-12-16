@@ -1,0 +1,4 @@
+{
+	"payload": "[{\"type\":\"ADD\"},{\"type\":\"REMOVE\"},{\"type\":\"ADDTEN\"},{\"type\":\"REMOVETEN\"},{\"type\":\"ADDTEN\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVETEN\"},{\"type\":\"RESET\"}]",
+	"preloadedState": "0"
+}
